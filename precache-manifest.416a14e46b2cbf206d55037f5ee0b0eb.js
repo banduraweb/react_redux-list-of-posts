@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9e166df95c1972acde4c3c3b13c79f2f",
+    "revision": "b1901a81e00661fcb391ff85ca09e28d",
     "url": "/react_redux-list-of-posts/index.html"
   },
   {
-    "revision": "d0abc04298b4196c7f99",
+    "revision": "d5864391ba5e1db68e84",
     "url": "/react_redux-list-of-posts/static/css/2.202bdf63.chunk.css"
   },
   {
-    "revision": "9436f3654c0a29fe2bf3",
+    "revision": "1bf6242fe83f02dd1a8c",
     "url": "/react_redux-list-of-posts/static/css/main.ba49ec77.chunk.css"
   },
   {
-    "revision": "d0abc04298b4196c7f99",
-    "url": "/react_redux-list-of-posts/static/js/2.b14974d6.chunk.js"
+    "revision": "d5864391ba5e1db68e84",
+    "url": "/react_redux-list-of-posts/static/js/2.888eefd3.chunk.js"
   },
   {
-    "revision": "9436f3654c0a29fe2bf3",
-    "url": "/react_redux-list-of-posts/static/js/main.d934064c.chunk.js"
+    "revision": "1bf6242fe83f02dd1a8c",
+    "url": "/react_redux-list-of-posts/static/js/main.c4b45b17.chunk.js"
   },
   {
     "revision": "c3092fe5bcf6cd34b5b5",
